@@ -1,1 +1,1 @@
-# bash-school
+# bash "The school is open!"
